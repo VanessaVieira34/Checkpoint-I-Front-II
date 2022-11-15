@@ -20,7 +20,7 @@ let postsPrincipais = [
 
   {
     campoImagem:"https://oregional.com.br/media/blog/1115f94493a1dd9bdd49caacb7d1262b.jpg",
-    campoTitulo:"A orfão 2",
+    campoTitulo:"A orfã 2",
     campoDescricao:"Filme de terror com fim inusitado",
     campoAtores:"Isabelle Fuhrman Jlia Stiles",
   }
