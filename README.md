@@ -22,7 +22,8 @@ a. Os cards devem ter uma imagem e constar todas as informações previamente pr
 b. O comportamento se dará de forma que as informações preenchidas no formulário sejam exibidas na seção de cards.
 
 
-Integrante do trabalho
+
+Integrantes do trabalho
 
 Vanessa Vieira dos Santos
 
