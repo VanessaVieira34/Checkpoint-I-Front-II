@@ -24,6 +24,8 @@ b. O comportamento se dará de forma que as informações preenchidas no formul�
 
 Integrante do trabalho
 
-Vanessa Vieira dos SAntos
+Vanessa Vieira dos Santos
+
 Elton Tomé
+
 Francisco Oliveira
